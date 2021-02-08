@@ -1,4 +1,4 @@
-# Table of Contents
+# Semester Project
 1. [Overview](#Overview)
 2. [Code Description](#Code_Description)
 
